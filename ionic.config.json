@@ -1,0 +1,7 @@
+{
+  "name": "traxtrapclient",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
